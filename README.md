@@ -1,19 +1,19 @@
-# Olá! Eu sou Djonatan 👋
+# Olá, eu sou Djonatan
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+Estudante de Análise e Desenvolvimento de Sistemas.
 
-💻 Atualmente estou desenvolvendo meus conhecimentos em programação, banco de dados e desenvolvimento web.
+Atualmente estou focado em aprender programação, banco de dados e desenvolvimento web, buscando evoluir através de projetos práticos.
 
-## 🚀 Sobre mim
+## Sobre mim
 
-- 📚 Estudando fundamentos de programação
-- ☕ Focando meus estudos em Java
-- 🗄️ Aprendendo SQL e Banco de Dados
-- 🌐 Conhecimentos básicos em HTML, CSS e JavaScript
-- 🛠️ Desenvolvendo projetos para colocar meus conhecimentos em prática
-- 🎯 Buscando minha primeira oportunidade na área de Tecnologia
+- Estudando fundamentos de programação
+- Focando meus estudos em Java
+- Aprendendo SQL e Banco de Dados
+- Conhecimentos básicos em HTML, CSS e JavaScript
+- Desenvolvendo projetos para praticar o que aprendo
+- Buscando minha primeira oportunidade na área de tecnologia
 
-## 🧰 Tecnologias que estou estudando
+## Tecnologias que estou estudando
 
 - Java
 - SQL
@@ -22,12 +22,10 @@
 - JavaScript
 - Git e GitHub
 
-## 📂 Projetos
+## Projetos
 
-Estou desenvolvendo e organizando meus projetos para construir meu portfólio.
+Estou organizando meus projetos e construindo meu portfólio. Conforme for desenvolvendo novos projetos, vou adicioná-los aqui.
 
-Em breve, meus principais projetos estarão destacados aqui.
+## Contato
 
-## 📫 Contato
-
-- LinkedIn: em breve
+LinkedIn: em breve
