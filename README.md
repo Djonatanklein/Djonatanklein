@@ -24,7 +24,15 @@ Atualmente estou focado em aprender programação, banco de dados e desenvolvime
 
 ## Projetos
 
-Estou organizando meus projetos e construindo meu portfólio. Conforme for desenvolvendo novos projetos, vou adicioná-los aqui.
+### Rota Livre
+Site de turismo desenvolvido com HTML, CSS e JavaScript.
+
+[Ver projeto](https://github.com/Djonatanklein/rota-livre) | [Acessar site](https://djonatanklein.github.io/rota-livre/)
+
+### Conta Bancária em Java
+Projeto desenvolvido para praticar Programação Orientada a Objetos e operações bancárias.
+
+[Ver projeto](https://github.com/Djonatanklein/conta-bancaria-java)
 
 ## Contato
 
