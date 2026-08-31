@@ -36,4 +36,4 @@ Projeto desenvolvido para praticar Programação Orientada a Objetos e operaçõ
 
 ## Contato
 
-LinkedIn:(https://www.linkedin.com/in/djonatan-klein/)
+LinkedIn: https://www.linkedin.com/in/djonatan-klein/
